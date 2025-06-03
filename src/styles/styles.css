@@ -1,0 +1,5 @@
+@import "tailwindcss";
+* {
+  font-family: "Alumni Sans SC", sans-serif;
+  font-optical-sizing: auto;
+}
