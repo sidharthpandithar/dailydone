@@ -1,12 +1,91 @@
-# React + Vite
+# 🗓️ DailyDone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**DailyDone** is a minimalist to-do app built with **ReactJS**, **Vite**, and **Tailwind CSS**. It was created as a practice project to learn and apply modern frontend development tools. The app focuses on clean design and essential functionality to help users track and complete daily tasks.
 
-Currently, two official plugins are available:
+> ✅ *"Get it done. Every day."*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧰 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ **ReactJS** – UI library
+- ⚡ **Vite** – Fast development build tool
+- 🎨 **Tailwind CSS** – Utility-first CSS framework
+
+---
+
+## 📸 Features
+
+- Add and delete tasks
+- Mark tasks as complete
+- Clear completed tasks
+- Simple, responsive design
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/sidharthpandithar/dailydone.git
+cd dailydone
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start development server
+
+```bash
+npm run dev
+```
+
+### 4. Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## 📁 Project Structure
+
+```
+/src
+  /components     // Reusable React components
+  /styles         // Tailwind and custom CSS
+  App.jsx         // Main App component
+  main.jsx        // Entry point
+```
+
+---
+
+## 📸 Preview
+
+![DailyDone UI Preview(Static)](Screenshots/Screenshot_1.png)
+
+![DailyDone UI Preview(Animated)](Screenshots/SimpleGif.gif)
+
+
+## 🧪 Purpose
+
+This project was built to practice:
+- Using **React** functional components and hooks
+- Setting up projects with **Vite**
+- Styling with **Tailwind CSS**
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 👋 Author
+
+Made with ❤️ by [Sidharth Pandithar](https://github.com/sidharthpandithar)
