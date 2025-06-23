@@ -7,15 +7,17 @@ export default function Todo() {
   const completedTodos = todos.filter((todo) => todo.done).length;
   const remainingTodos = todos.filter((todo) => todo.done == false).length;
   return (
-    <div>
-      <div className="bg-zinc-200">
-        <Form todos={todos} settodos={settodos} />
-        <Todolist todos={todos} settodos={settodos} />
-        <Footer
-          completedTodos={completedTodos}
-          remainingTodos={remainingTodos}
-        />
+    <>
+      <div className="bg-zinc-200 w-full h-full md:w-full md:h-full ">
+        <div className=" flex flex-col md:block justify-center  items-center ">
+          <Form todos={todos} settodos={settodos} />
+          <Todolist todos={todos} settodos={settodos} />
+          <Footer
+            completedTodos={completedTodos}
+            remainingTodos={remainingTodos}
+          />
+        </div>
       </div>
-    </div>
+    </>
   );
 }
