@@ -1,4 +1,4 @@
-# 🗓DailyDone
+# DailyDone
 
 **DailyDone** is a minimalist to-do app built with **ReactJS**, **Vite**, and **Tailwind CSS**. It was created as a practice project to learn and apply modern frontend development tools. The app focuses on clean design and essential functionality to help users track and complete daily tasks.
 
@@ -8,9 +8,9 @@
 
 ## Tech Stack
 
-- ⚛️ **ReactJS** – UI library
-- ⚡ **Vite** – Fast development build tool
-- 🎨 **Tailwind CSS** – Utility-first CSS framework
+- **ReactJS** – UI library
+- **Vite** – Fast development build tool
+- **Tailwind CSS** – Utility-first CSS framework
 
 ---
 
