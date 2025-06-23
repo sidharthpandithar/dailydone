@@ -1,12 +1,12 @@
-# 🗓️ DailyDone
+# 🗓DailyDone
 
 **DailyDone** is a minimalist to-do app built with **ReactJS**, **Vite**, and **Tailwind CSS**. It was created as a practice project to learn and apply modern frontend development tools. The app focuses on clean design and essential functionality to help users track and complete daily tasks.
 
-> ✅ *"Get it done. Every day."*
+> *"Get it done. Every day."*
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - ⚛️ **ReactJS** – UI library
 - ⚡ **Vite** – Fast development build tool
@@ -14,7 +14,7 @@
 
 ---
 
-## 📸 Features
+## Features
 
 - Add and delete tasks
 - Mark tasks as complete
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -52,7 +52,7 @@ npm run build
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 /src
@@ -64,14 +64,14 @@ npm run build
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![DailyDone UI Preview(Static)](Screenshots/Screenshot_1.png)
 
 ![DailyDone UI Preview(Animated)](Screenshots/SimpleGif.gif)
 
 
-## 🧪 Purpose
+## Purpose
 
 This project was built to practice:
 - Using **React** functional components and hooks
@@ -80,12 +80,12 @@ This project was built to practice:
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👋 Author
+## Author
 
 Made with ❤️ by [Sidharth Pandithar](https://github.com/sidharthpandithar)
